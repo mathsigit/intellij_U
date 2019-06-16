@@ -1,0 +1,22 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="EditorResetFontSize" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditorIncreaseFontSize" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditorDecreaseFontSize" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="EditorResetFontSize" icon="/Volumes/Sdhd/Pictures/icon/font-size.png" />
+    <action id="EditorIncreaseFontSize" icon="/Volumes/Sdhd/Pictures/icon/increase-font-size.png" />
+    <action id="EditorDecreaseFontSize" icon="/Volumes/Sdhd/Pictures/icon/decrease-font-size.png" />
+  </component>
+</application>
