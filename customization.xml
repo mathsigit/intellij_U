@@ -15,8 +15,8 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <action id="EditorResetFontSize" icon="/Volumes/Sdhd/Pictures/icon/font-size.png" />
-    <action id="EditorIncreaseFontSize" icon="/Volumes/Sdhd/Pictures/icon/increase-font-size.png" />
-    <action id="EditorDecreaseFontSize" icon="/Volumes/Sdhd/Pictures/icon/decrease-font-size.png" />
+    <action id="EditorIncreaseFontSize" icon="/Volumes/Data/Pictures/icon/increase-font-size.png" />
+    <action id="EditorResetFontSize" icon="/Volumes/Data/Pictures/icon/font-size.png" />
+    <action id="EditorDecreaseFontSize" icon="/Volumes/Data/Pictures/icon/decrease-font-size.png" />
   </component>
 </application>
